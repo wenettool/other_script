@@ -38,7 +38,7 @@ curl -sSO https://raw.githubusercontent.com/8838/btpanel-v7.7.0/main/install/ins
 **备用安装链接，适用于不能访问GitHub的服务器。**
 
 ```
-curl -sSO https://slink.ltd/https://raw.githubusercontent.com/wenettool/other_script/master/btpanel-v7.7.0/install/install_panel.sh && bash install_panel.sh
+curl -sSO https://slink.ltd/https://raw.githubusercontent.com/wenettool/other_script/master/btpanel-v7.7.0/install/install_panel_proxy.sh && bash install_panel_proxy.sh
 ```
 
 # 手动破解：
